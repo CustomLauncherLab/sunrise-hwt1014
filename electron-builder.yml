@@ -1,5 +1,5 @@
 appId: 'sunrise-hwt1014'
-productName: '샘플런처'
+productName: '일출서버'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 gotiger'
